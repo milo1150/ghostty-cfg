@@ -1,14 +1,3 @@
-# Quick Terminal
-keybind = global:ctrl+space=toggle_quick_terminal
-quick-terminal-animation-duration = 0
-quick-terminal-screen = main
-
-# Font
-#font-family-bold = RobotoMono Nerd Font
-#font-family = Monaco
-font-family = JetBrainsMono Nerd Font
-font-size = 16
-
 # Terminal
 theme = Chester
 # background-opacity = 0.96
@@ -18,6 +7,23 @@ macos-titlebar-style=transparent
 window-colorspace = "display-p3"
 background = 1C2021
 # foreground = d4be98
+# window-height = 80
+# window-width = 160
+macos-titlebar-style = tabs
+macos-titlebar-proxy-icon = visible
+title = ""
+macos-icon = official
+
+# Quick Terminal
+# keybind = global:ctrl+space=toggle_quick_terminal
+quick-terminal-animation-duration = 0
+quick-terminal-screen = main
+
+# Font
+#font-family-bold = RobotoMono Nerd Font
+#font-family = Monaco
+font-family = JetBrainsMono Nerd Font
+font-size = 16
 
 # Cursor
 shell-integration-features = no-cursor,sudo,no-title
