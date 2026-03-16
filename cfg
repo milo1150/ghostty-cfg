@@ -15,7 +15,7 @@ title = ""
 macos-icon = official
 
 # Quick Terminal
-# keybind = global:ctrl+space=toggle_quick_terminal
+keybind = global:ctrl+space=toggle_quick_terminal
 quick-terminal-animation-duration = 0
 quick-terminal-screen = main
 
